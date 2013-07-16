@@ -1,0 +1,85 @@
+Element :xs:element
+Namespace :
+Data :
+AttrDict :{'name': '"shiporder"'}
+childList :[<node.node instance at 0x2b95050>, <node.node instance at 0x2b95128>, <node.node instance at 0x2b953f8>]
+depth :2
+
+Element :xs:element
+Namespace :
+Data :
+AttrDict :{'type': '"xs:string"', 'name': '"orderperson"'}
+childList :[]
+depth :5
+
+Element :xs:element
+Namespace :
+Data :
+AttrDict :{'name': '"shipto"'}
+childList :[<node.node instance at 0x2b951b8>, <node.node instance at 0x2b95248>, <node.node instance at 0x2b952d8>, <node.node instance at 0x2b95368>]
+depth :5
+
+Element :xs:element
+Namespace :
+Data :
+AttrDict :{'type': '"xs:string"', 'name': '"name"'}
+childList :[]
+depth :8
+
+Element :xs:element
+Namespace :
+Data :
+AttrDict :{'type': '"xs:string"', 'name': '"address"'}
+childList :[]
+depth :8
+
+Element :xs:element
+Namespace :
+Data :
+AttrDict :{'type': '"xs:string"', 'name': '"city"'}
+childList :[]
+depth :8
+
+Element :xs:element
+Namespace :
+Data :
+AttrDict :{'type': '"xs:string"', 'name': '"country"'}
+childList :[]
+depth :8
+
+Element :xs:element
+Namespace :
+Data :
+AttrDict :{'maxOccurs': '"unbounded"', 'name': '"item"'}
+childList :[<node.node instance at 0x2b95488>, <node.node instance at 0x2b95518>, <node.node instance at 0x2b955a8>, <node.node instance at 0x2b95638>]
+depth :5
+
+Element :xs:element
+Namespace :
+Data :
+AttrDict :{'type': '"xs:string"', 'name': '"title"'}
+childList :[]
+depth :8
+
+Element :xs:element
+Namespace :
+Data :
+AttrDict :{'type': '"xs:string"', 'name': '"note"', 'minOccurs': '"0"'}
+childList :[]
+depth :8
+
+Element :xs:element
+Namespace :
+Data :
+AttrDict :{'type': '"xs:positiveInteger"', 'name': '"quantity"'}
+childList :[]
+depth :8
+
+Element :xs:element
+Namespace :
+Data :
+AttrDict :{'type': '"xs:decimal"', 'name': '"price"'}
+childList :[]
+depth :8
+
+

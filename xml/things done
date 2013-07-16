@@ -1,0 +1,9 @@
+THINGS DONE !!
+
+1.Start tag should match the corresponding closing Tag.
+2.Bounds checking.
+3.Name of element in XSD should match the corresponding tag in XML.
+4.Sequence of tags encountered in both documents should be matching.
+5.Datatype checking in XML as per schema specification.
+6.Comments processing.
+
